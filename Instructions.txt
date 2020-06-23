@@ -1,0 +1,1 @@
+Enable Less secure apps in gmail, or else it won't work.
